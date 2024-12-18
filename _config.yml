@@ -1,5 +1,5 @@
 # 设置主题
-theme: minima
+theme: jekyll-theme-cayman
 
 # 基本设置
 name: MCP2Everything
