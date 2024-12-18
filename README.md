@@ -1,5 +1,3 @@
-# Welcome to MCP2Everything
-
 Please select your preferred language:  
 请选择您的语言：
 
